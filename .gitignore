@@ -1,0 +1,10 @@
+__pycache__
+.idea
+
+data
+
+result/result.csv
+result/result_week1(delete).csv
+
+sql_acc_key.pem
+chromedriver.exe
